@@ -1,1 +1,2 @@
-# shupon.github.io-final
+小遊戲
+選項點的先後次序會讓結果不太一樣
