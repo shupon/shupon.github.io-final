@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap");
+
+.flower {
+    margin: calc((100vh-400px)/2) auto;
+    float: right;
+    padding-right: 50px;
+}
+
+.text {
+    font-size: 40px;
+    font-family: 微軟正黑體;
+    text-align: center;
+
+}
+
+.start {
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 微軟正黑體;
+    text-align: center;
+    display: grid;
+    background-color: azure;
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    color: #673AB7;
+    border-radius: 10px;
+}
+
+.start:hover {
+    box-shadow: 2px 2px 5px darkgrey;
+}
+
+.start:active {
+    box-shadow: 0 0 10px rgb(135, 135, 245);
+}
+
+#opt {
+    display: inline-block;
+}
+
+.opt {
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 微軟正黑體;
+    text-align: center;
+    display: grid;
+    background-color: azure;
+    width: 220px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    color: #673AB7;
+    border-radius: 10px;
+    border-color: none;
+}
+
+.opt:hover {
+    box-shadow: 2px 2px 5px darkgrey;
+}
+
+.opt:active {
+    box-shadow: 0 0 5px rgb(135, 174, 245);
+}
+
+.hide {
+    display: none;
+}
